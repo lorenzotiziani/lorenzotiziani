@@ -2,7 +2,9 @@
   
   <img height="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG85YmQ4aW1kMXNvbWRzeW1saXlvcTF2NmJyZ3RqZjkzMnZnMGptNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IThjAlJnD9WNO/giphy.gif" />
   
-  # 👋 Hi, I'm Lorenzo Tiziani
+<h1 align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=A379D9&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Lorenzo!;Welcome+to+my+GitHub+Profile!" /> 
+</h1> 
   
   ### 💻 Full Stack Developer | Cloud Enthusiast | Tech Explorer
   
